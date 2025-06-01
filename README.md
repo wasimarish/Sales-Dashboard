@@ -122,3 +122,5 @@ Below is a high-level breakdown of the dashboard’s layout and components. (Not
 Simply click the link above to view and interact with the dashboard on Tableau Public.
 
 ---
+![image](https://github.com/user-attachments/assets/0772e52d-4af9-41b5-a807-e8ee392277a7)
+
