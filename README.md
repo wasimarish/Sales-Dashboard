@@ -1,6 +1,6 @@
 # Sales-Dashboar
 
-[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/Dashboard1)
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-blue?logo=tableau)](https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/SalesDashBoard)
 
 An interactive Tableau Sales Dashboard that provides comprehensive insights into sales performance across regions, product categories, and time periods. This dashboard was developed and published to Tableau Public by **Arish Wasim** and can be accessed [here](https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/SalesDashBoard).
 
