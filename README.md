@@ -7,7 +7,7 @@ An interactive Tableau Sales Dashboard that provides comprehensive insights into
 ---
 
 - **Public URL**:  
-  [https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/Dashboard1](https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/Dashboard1)
+  [https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/Dashboard1](https://public.tableau.com/app/profile/arish.wasim/viz/SALESDashboard_17488037283700/SalesDashBoard)
 
 Simply click the link above to view and interact with the dashboard on Tableau Public.
 
